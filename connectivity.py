@@ -39,3 +39,5 @@ update_record(1,"Dinesh","485124545")
 
 # delete_values([6])
 view_values()
+method.close()
+conn.close()
